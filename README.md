@@ -1,1 +1,1 @@
-# gestor-de-clientes
+Gestor de clientes con Python, TKinter, SQLite3
